@@ -3,6 +3,8 @@
 2. Structure Pattern Matching
 3. Object-oriented programming feature
 
+https://www.youtube.com/playlist?list=PLC3KIWHDQ2Guc7hFFQgqkT7fn895DjBoq
+
 Language constructs
 -------------------
 Chapter 1: Index and Ranges
